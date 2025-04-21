@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Kushal</h1>
 
-<!--
-**kushal1989/kushal1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 AI & Data Science Student | 💻 Developer | 📊 ML & DL Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 I'm currently pursuing my degree in **Artificial Intelligence and Data Science**
+- 🌱 Learning and building projects with **Machine Learning, Deep Learning**, and **Computer Vision**
+- 🧠 Passionate about solving real-world problems using data-driven approaches
+- 📌 I also enjoy web development and interactive dashboard creation
+
+---
+
+### 🚀 Tech Stack
+
+- **Languages:** Python, Java, C, SQL, HTML, CSS  
+- **Frameworks & Libraries:** TensorFlow, Keras, OpenCV, NumPy, Pandas, Streamlit  
+- **Tools:** Git, GitHub, Jupyter, VS Code, Pycharm, SQLite
+
+---
+
+
+### 📬 Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/kushal-manduri)
+- 📧 Email: kushalvirendrachowdary.manduri@gmail.com
+- 🌐 [Portfolio/Website](https://yourwebsite.com)
+
+---
+
