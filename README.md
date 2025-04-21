@@ -26,7 +26,7 @@
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/kushal-manduri)
+- 💼 LinkedIn: www.linkedin.com/in/kushal-manduri
 - 📧 Email: kushalvirendrachowdary.manduri@gmail.com
 - 🌐 [Portfolio/Website](https://yourwebsite.com)
 
