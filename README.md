@@ -16,7 +16,7 @@
 ---
 
 ### 🛠 Tech Stack
-- 💻 Languages: Python, Java, SQL
+- 💻 Languages: C, Python, HTML, Java, SQL
 - 🔧 Tools: VS Code, GitHub, Pycharm
 - 📊 Libraries: TensorFlow, Keras, OpenCV, Pandas, Streamlit
 
@@ -36,7 +36,7 @@
 
 - 💼 LinkedIn: www.linkedin.com/in/kushal-manduri
 - 📧 Email: kushalvirendrachowdary.manduri@gmail.com
-- 🌐 [Portfolio/Website](https://yourwebsite.com)
+- 
 
 ---
 
