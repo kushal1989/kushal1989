@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Kushal</h1>
 
 <p align="center">
-  🎓 AI & Data Science Student | 💻 Developer | 📊 ML & DL Enthusiast
+  🎓 AI & Data Science Student | 💻 Developer | 📊 AI & Data Science Enthusiast
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm currently pursuing my degree in **Artificial Intelligence and Data Science**
+- 🎓 Graduated in **Artificial Intelligence and Data Science**
 - 🌱 Learning and building projects with **Machine Learning, Deep Learning**, and **Computer Vision**
 - 🧠 Passionate about solving real-world problems using data-driven approaches
 - 📌 I also enjoy web development and interactive dashboard creation
