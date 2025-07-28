@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kushal</h1>
 
 <p align="center">
-  🎓 AI & Data Science Student | 💻 Developer | 📊 AI & Data Science Enthusiast
+  🎓 Artificial Intelligence & Data Science Graduate | 💻 Developer | 📊 AI & Data Science Enthusiast
 </p>
 
 ---
