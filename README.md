@@ -23,7 +23,7 @@
 ---
 
 ### 💡 Projects
-- 🧠 [Semantic Face Generation from Natural Language using GANs](https://github.com/kushal1989/Semantic-Face-Generation-from-NaturalLanguage-using-GANs): A GAN-powered model that generates realistic face images from text descriptions.
+- 🖼️ [Semantic Face Generation from Natural Language using GANs](https://github.com/kushal1989/Semantic-Face-Generation-from-NaturalLanguage-using-GANs): A GAN-powered model that generates realistic face images from text descriptions.
 - 🧠 [Face-to-BMI-Predicting-Body-Mass-Index-Using-Neural-Networks](https://github.com/kushal1989/Face-to-BMI): A deep learning-based web app that predicts BMI using facial images. Built with EfficientNetV2 and Streamlit.
 - 🧾 [ResumeRanker](https://github.com/kushal1989/Resume-Analyser): A smart resume screening tool that analyzes resumes, suggests skills and courses, and provides a score.
 - 📚 [BookWish-Connecting-Donors-and-Readers](https://github.com/kushal1989/Book-Donation-Website): A platform for users to donate and receive books, aimed at promoting book reuse and education access.
