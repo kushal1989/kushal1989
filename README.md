@@ -36,7 +36,7 @@
 
 - 💼 LinkedIn: www.linkedin.com/in/kushal-manduri
 - 📧 Email: kushalvirendrachowdary.manduri@gmail.com
-- 
+- 🌐 Live Site: https://kushalmanduri.vercel.app
 
 ---
 
