@@ -28,7 +28,7 @@
 - [Face-to-BMI-Predicting-Body-Mass-Index-Using-Neural-Networks](https://github.com/kushal1989/Face-to-BMI): A deep learning-based web app that predicts BMI using facial images. Built with EfficientNetV2 and Streamlit.
 - [Resume-Analyzer-with-Admin-Dashboard-Visual-Insights](https://github.com/kushal1989/Resume-Analyser): A smart resume screening tool that analyzes resumes, suggests skills and courses, and provides a score.
 - [BookWish-Connecting-Donors-and-Readers](https://github.com/kushal1989/Book-Donation-Website): A platform for users to donate and receive books, aimed at promoting book reuse and education access.
-- Data-Visualizer-Streamlit-App](https://github.com/kushal1989/Data-Visualizer): Visualizes uploaded CSV data using charts and plots with Plotly and Streamlit.
+- [Data-Visualizer-Streamlit-App](https://github.com/kushal1989/Data-Visualizer): Visualizes uploaded CSV data using charts and plots with Plotly and Streamlit.
 - [Interactive-Quiz-App](https://github.com/kushal1989/Quiz-App-): A fun and interactive quiz application that allows users to test their knowledge across various topic
 
 ---
