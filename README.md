@@ -9,7 +9,7 @@
 ### About Me
 
 - Graduated in **Artificial Intelligence and Data Science**
-- Learning and building projects with **Machine Learning, Deep Learning**, and **Computer Vision**
+- Learning and building projects with **Machine Learning, Deep Learning**, and **Data Science**
 - Passionate about solving real-world problems using data-driven approaches
 - I also enjoy web development and interactive dashboard creation
 
